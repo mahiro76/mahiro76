@@ -1,4 +1,6 @@
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=mahiro76)](https://github.com/stats-organization/github-stats-extended)
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=mahiro76&rank_icon=github&include_all_commits=true&theme=transparent)](https://github-stats-extended.vercel.app/api?username=mahiro76&rank_icon=github&include_all_commits=true&theme=transparent)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=mahiro76&layout=compact&langs_count=12&theme=transparent)](https://github-stats-extended.vercel.app/api/top-langs?username=mahiro76&layout=compact&langs_count=12&theme=transparent)
 <!--
 **mahiro76/mahiro76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
