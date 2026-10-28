@@ -1,4 +1,4 @@
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=mahiro76)](https://github.com/stats-organization/github-stats-extended)
 <!--
 **mahiro76/mahiro76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
